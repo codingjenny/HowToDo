@@ -1,6 +1,10 @@
 # git clone (GitHub上的儲存庫URL)
 # 將GitHub的資料庫傳送給本地電腦
 
+# cd "跟GitHub連接的本地資料庫"
+# 進到本地資料庫
+# 以下指令都要在連接的本地資料庫才能使用
+
 # git add (資料夾或檔案路徑)
 # 將資料夾或檔案丟給git
 
@@ -9,3 +13,6 @@
 
 # git push
 # 將本地資料傳送到遠端GitHub資料庫
+
+# git status
+# 查看git裡是否有可以更新的資料
