@@ -1,9 +1,26 @@
+##############################
 # apt
 # 管理Debian或Ubuntu系統的指令
-
+#
 # sudo apt-get update
 # 透過apt-get更新Linux內的軟體包
-
+#
 # sudo apt-get install (軟體名稱)
 # 透過apt-get安裝軟體
+##############################
+
+##############################
+# screen
+#
+# screen -S (session name)
+#
+# screen -r (session name)
+#
+# Ctrl + A +D
+#
+# screen -ls
+#
+# screen -S (session name or ID) -X quit
+#
+##############################
 
